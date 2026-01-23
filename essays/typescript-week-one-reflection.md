@@ -9,7 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 ## One Week With TypeScript 
 
 As a third -year computer science student, my first experience with TypeScript was only about a week ago. I must admit, it has been quite a struggle. Learning anything new is hard, but having to demonstrate competency through in-class assignments for something I am so unfamiliar with feels like a challenge. Although I am struggling, there is still a sense of familiarity from my previous experience with Java. The way the type systems and object-oriented programming features work all feel very familiar to me.
