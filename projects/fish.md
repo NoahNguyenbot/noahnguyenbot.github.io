@@ -19,16 +19,16 @@ summary: "My final project for ICS 211"
 
 Here is some code that illustrates how we read values from the line sensors:
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+```java
+private I_a get(IaNode node, I_a searchKey) {
+    if (node == null) {
+        throw new IaTreeException("Fish not found.");
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+    int comparison = searchKey.getName().compareTo(node.getI_a().getName());
+    if (comparison == 0) {
+        return node.getI_a();
+    }
+    return comparison < 0 ? get(node.getLChild(), searchKey) : get(node.getRChild(), searchKey);
 }
-```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+
