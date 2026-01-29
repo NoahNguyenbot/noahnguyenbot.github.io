@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fishpond/IaGraph.png
+image: img/fishpond/Fishphoto.webp
 title: "Fish Pond Game"
 date: 2024
 published: true
