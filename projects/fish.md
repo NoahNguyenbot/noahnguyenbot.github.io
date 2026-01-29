@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/fishpond/IaGraph.png
 title: "Fish Pond Game"
 date: 2024
 published: true
