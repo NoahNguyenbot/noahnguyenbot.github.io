@@ -2,14 +2,13 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "Fish Pond Game"
+date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - OOP
+  - Java
+summary: "My final project for ICS 211"
 ---
 
 <div class="text-center p-4">
