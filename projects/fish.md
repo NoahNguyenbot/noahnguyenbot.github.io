@@ -19,8 +19,7 @@ summary: "My final project for ICS 211"
 
 Here is some code that recursively searches for a fish in the IaTree based on the given search key.
 
-{% raw %}
-```java
+{% highlight java %}
 private I_a get(IaNode node, I_a searchKey) {
     if (node == null) {
         throw new IaTreeException("Fish not found.");
@@ -31,4 +30,5 @@ private I_a get(IaNode node, I_a searchKey) {
     }
     return comparison < 0 ? get(node.getLChild(), searchKey) : get(node.getRChild(), searchKey);
 }
+{% endhighlight %}
 
