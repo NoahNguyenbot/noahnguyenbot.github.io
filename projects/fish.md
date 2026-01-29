@@ -31,4 +31,3 @@ private I_a get(IaNode node, I_a searchKey) {
     return comparison < 0 ? get(node.getLChild(), searchKey) : get(node.getRChild(), searchKey);
 }
 
-
