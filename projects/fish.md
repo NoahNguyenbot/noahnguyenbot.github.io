@@ -17,7 +17,7 @@ summary: "My final project for ICS 211"
 
 
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that recursively searches for a fish in the IaTree based on the given search key:
 
 ```java
 private I_a get(IaNode node, I_a searchKey) {
