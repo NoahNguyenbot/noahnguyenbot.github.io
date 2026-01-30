@@ -58,7 +58,7 @@ int main()
 
 
 {% endhighlight %}
-
+ link to smart question [here](https://stackoverflow.com/questions/66612929/program-not-working-for-some-reason-could-someone-pls-help-me-fix-it)
 ## Not-So-Smart Question Example
 
 In contrast, consider this  question from Stack Overflow that violates Raymond's principles: "Program not working for some reason, could someone pls help me fix it". The asker also reports, "my program doesn't even start. When I run it, Windows just says that the program is not responding and is trying to diagnose the problem." They add that they're a "complete beginner" and request simplified explanations, but provide no error logs, compiler output or debugging attempts. No mention of what they've tried, no print statements, no debugger use, no basic checks for obvious issues.
