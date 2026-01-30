@@ -96,4 +96,4 @@ int main()
 }
 
 {% endhighlight %}
- link to question [here](https://stackoverflow.com/questions/66612929/program-not-working-for-some-reason-could-someone-pls-help-me-fix-it)
+ link to not so smart question [here](https://stackoverflow.com/questions/66612929/program-not-working-for-some-reason-could-someone-pls-help-me-fix-it)
