@@ -16,7 +16,7 @@
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Computer Hardware" },
-    { "name": "Web Development" }  // Removed trailing space
+    { "name": "Web Development" }  
   ],
   "skills": [
     {
