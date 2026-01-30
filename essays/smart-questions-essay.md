@@ -19,7 +19,7 @@ A great example of a smart question is "Why is processing a sorted array faster 
 
 This question follows closely to Raymond's guidelines, making it a model of "smart" question. First, it demonstrates significant prior effort. The asker has written and tested code in two languages, measured timings precisely, and ruled out obvious causes.  Second, the question is specific and focused, not broad.
 
-Here is the example of the code he used for C++:
+Here is the example of the code the asker used for C++:
 {% highlight java %}
 
 #include <algorithm>
