@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/tictactoe/Tictactoe.jpg
 title: "Tic-Tac-Toe"
 date: 2024
 published: true
