@@ -11,14 +11,12 @@
     "profiles": [
       { "network": "github", "username": "NoahNguyenbot", "url": "http://github.com/NoahNguyenbot" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
-      
-      
     ]
   },
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Computer Hardware" },
-    { "name": "Web Development " }
+    { "name": "Web Development" }  // Removed trailing space
   ],
   "skills": [
     {
@@ -27,7 +25,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "g++"]
+      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
@@ -37,9 +35,15 @@
       "studyType": "B.S.",
       "startDate": "2024-09-14",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
+  "work": [],
+  "volunteer": [],
+  "awards": [],
+  "references": [
+    { "name": "Available upon request" }
+  ]
+}
  
    
