@@ -64,7 +64,7 @@ int main()
 
 In contrast, consider this  question from Stack Overflow that violates Raymond's principles: "Program not working for some reason, could someone pls help me fix it". The asker also reports, "my program doesn't even start. When I run it, Windows just says that the program is not responding and is trying to diagnose the problem." They add that they're a "complete beginner" and request simplified explanations, but provide no error logs, compiler output or debugging attempts. No mention of what they've tried, no print statements, no debugger use, no basic checks for obvious issues.
 
-This exemplifies the "not smart way" by flouting several of Raymond's core precepts. Primarily, it lacks any demonstrated research or effort. Raymond advises searching for answers first, trying things yourself, and showing your work, but here there's zero indication of prior attempts. The question is vague and unfocused, breaching the rule to "be precise and informative about your problem"
+This exemplifies the "not smart way" by ignoring several of Raymond's core principles. Primarily, it lacks any demonstrated research or effort. Raymond advises searching for answers first, trying things yourself, and showing your work, but here there's zero indication of prior attempts. The question is vague and unfocused, breaching the rule to "be precise and informative about your problem"
 
 Here is the code in question: 
 {% highlight java %}
