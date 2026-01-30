@@ -99,3 +99,5 @@ int main()
 
 {% endhighlight %}
  link to not so smart question [here](https://stackoverflow.com/questions/66612929/program-not-working-for-some-reason-could-someone-pls-help-me-fix-it)
+
+ **Use of AI:** Grammarly was used to fix grammar mistakes and make ideas more clear. 
