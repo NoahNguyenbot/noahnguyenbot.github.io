@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/grades/grade.webp
 title: "Grade Average"
 date: 2024
 published: true
