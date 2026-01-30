@@ -19,6 +19,46 @@ A great example of a smart question is "Why is processing a sorted array faster 
 
 This question follows closely to Raymond's guidelines, making it a model of "smart" question. First, it demonstrates significant prior effort. The asker has written and tested code in two languages, measured timings precisely, and ruled out obvious causes.  Second, the question is specific and focused, not broad.
 
+Here is the example of the code he used for C++:
+{% highlight java %}
+
+#include <algorithm>
+#include <ctime>
+#include <iostream>
+
+int main()
+{
+    // Generate data
+    const unsigned arraySize = 32768;
+    int data[arraySize];
+
+    for (unsigned c = 0; c < arraySize; ++c)
+        data[c] = std::rand() % 256;
+
+    // !!! With this, the next loop runs faster.
+    std::sort(data, data + arraySize);
+
+    // Test
+    clock_t start = clock();
+    long long sum = 0;
+    for (unsigned i = 0; i < 100000; ++i)
+    {
+        for (unsigned c = 0; c < arraySize; ++c)
+        {   // Primary loop.
+            if (data[c] >= 128)
+                sum += data[c];
+        }
+    }
+
+    double elapsedTime = static_cast<double>(clock()-start) / CLOCKS_PER_SEC;
+
+    std::cout << elapsedTime << '\n';
+    std::cout << "sum = " << sum << '\n';
+}
+
+
+{% endhighlight %}
+
 ## Not-So-Smart Question Example
 
 In contrast, consider this  question from Stack Overflow that violates Raymond's principles: "Program not working for some reason, could someone pls help me fix it". . The asker reports. "my program doesn't even start. When I run it, Windows just says that the program is not responding and is trying to diagnose the problem." They add that they're a "complete beginner" and request simplified explanations, but provide no error logs, compiler output or debugging attempts. No mention of what they've tried, no print statements, no debugger use, no basic checks for obvious issues.
