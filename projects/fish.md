@@ -15,8 +15,7 @@ summary: "My final project for ICS 211"
   <img src="/img/fishpond/IaGraph.png" class="img-fluid rounded shadow-lg mx-auto d-block" alt="Fish Pond Game screenshot">
 </div>
 
-My final project for ICS 211 was a fishing game where two players take turns catching fish with the goal of achieving the highest score.  The game runs over a span of 12 month (12 rounds), where each players score is based on the size and type of the fish caught. At the beginning of the game fish are added to a pond called fishPond to create an enviornment in which they grow. Various types of fish are randomly generated in the pond based on the fish objects we created. Each fish has differnt growth patterns which were managed by the fishGrow method.
-
+My final project for ICS 211 was a fishing game in which two players took turns catching fish to achieve the highest score. The game ran over 12 months (12 rounds), and each player’s score was based on the size and type of fish they caught. At the beginning of the game, fish were added to a pond called "fishPond" to create an environment in which they could grow. Various types of fish were randomly generated in the pond based on the fish objects we created, and each fish had a different growth pattern. 
 
 
 
