@@ -11,13 +11,13 @@ labels:
 
 
 ## The importance of asking smart questions 
-In the world of software engineering, effective communication is important, not only for collaborations but also for seeking help from places like Stack Overflow. One of the most important aspects of this communication is the ability to ask questions "the smart way," described by Eric S. Raymond in his essay "How to Ask Questions the Smart Way." He emphasizes clarity, prior research, specificity, and respect for the responders time, which collectively lead to more productive interactions. Smart questions promote efficient problem-solving, build professional reputation, and contribute to collective knowledge. On the other hand, poorly asked questions can waste time, frustrate responders, and stunt personal growth.
+In the world of software engineering, effective communication is important, not only for collaborations but also for seeking help from places like Stack Overflow. One of the most important aspects of this is the ability to ask questions "the smart way," described by Eric S. Raymond in his essay "How to Ask Questions the Smart Way." He emphasizes clarity, prior research, and respect for the responders time, which collectively lead to more productive interactions. Smart questions promote efficient problem-solving, build professional reputation, and contribute to collective thinking. On the other hand, poorly asked questions can waste time, frustrate responders, and stunt personal growth.
 
 ## The Value of Smart Questions: Example from Stack Overflow
 
-A great example of a smart question is "Why is processing a sorted array faster than processing an unsorted array?"  which was posted on Stack Overflow. In this query, the asker presents a counterintuitive performance observation in C++ and Java code. They provide complete, runnable code snippets that initialize an array of random integers , sort it , and then iterate to sum values greater than or equal to 128. 
+A great example of a smart question is "Why is processing a sorted array faster than processing an unsorted array?"  which was posted on Stack Overflow. In this question, the asker presents a counterintuitive performance observation in C++ and Java code. They provide complete, runnable code snippets that initialize an array of random integers , sort it , and then iterate to sum values greater than or equal to 128. 
 
-This question follows closely to Raymond's guidelines, making it a model of "smart" question. First, it demonstrates significant prior effort. The asker has written and tested code in two languages, measured timings precisely, and ruled out obvious causes.  Second, the question is specific and focused, not broad.
+This question closely follows Raymond's guidelines, making it an almost perfectly "smart" question. First, it demonstrates significant prior effort. The asker has written and tested code in two languages, measured timings precisely, and ruled out obvious causes. Second, the question is specific and focused, rather than broad.
 
 Here is the example of the code the asker used for C++:
 {% highlight java %}
