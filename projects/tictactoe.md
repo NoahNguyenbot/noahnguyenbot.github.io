@@ -11,9 +11,7 @@ summary: "A Tic-Tac-Toe game I made using java"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img src="img/tictactoe/Tictactoe2.webp" class="img-fluid rounded" alt="tic tac toe screenshot">
 </div>
 
 During my first year of college I decided to create a tic tac toe game using java. For anyone who's played tic tac toe before, the objective of the game should be pretty obvious. But for anyone who hasn't, it's simple. The game starts on a 3x3 grid. Two players take turns. One player uses X and the other uses O. The goal is to be the first to get your smybol in a straight line, either vertically, horizontally, or diagnoly.
