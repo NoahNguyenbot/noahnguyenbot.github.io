@@ -9,7 +9,9 @@ labels:
   - Java
 summary: "Grade calculator that takes average of all courses taken"
 ---
-
+<div class="text-center p-4">
+  <img width="500px" src="img/grades/grades2.jpg" class="img-thumbnail" alt="grades screenshot">
+</div>
 
 The purpose of this project is to allow students to enter their grades for up to six classes and calculate the average of all their grades. It begins with a menu where you can choose three options by entering a number from 1 to 3. The first option is to add a student. The second option is to view all students. The third option is to exit.
 
@@ -18,6 +20,7 @@ If the user enters 1, the program will start by asking for the student’s name.
 This project was created very early in my programming journey, so it helped reinforce many basic Java concepts such as using ArrayLists to store custom course names, constructors to initialize new student objects, exception handling when users enter invalid input, and writing robust input-handling logic.
 
     Here is a code snippet when you user enters 1 to add a new student:
+
 {% highlight java %}
   if (choice == 1) {
     System.out.print("\nEnter student name: ");
