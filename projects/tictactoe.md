@@ -18,7 +18,16 @@ During my first year of college I decided to create a tic tac toe game using jav
   
   When I made this game, I had just started learning java through my ICS 111 course, so at the time, this project helped me learn about how static methods through the various helper functions implemeted. It also taught me how Arrays worked as well through array indexing.
 
-  Here is an example of the array indexing used in the game:
+  Here is an example of the array indexing being implemented through the win condtions. This is specifically checking for rows:
 
+  {% highlight java %}
+for (int i = 0; i < 3; i++) {                  
+    if (board[i][0] == player &&               
+        board[i][1] == player &&               
+        board[i][2] == player) {               
+        return true;
+    }
+}
+{% endhighlight %}
   
 
