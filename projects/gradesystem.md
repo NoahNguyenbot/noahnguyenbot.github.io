@@ -10,7 +10,7 @@ labels:
 summary: "Grade calculator that takes average of all courses taken"
 ---
 <div class="text-center p-4">
-  <img width="500px" src="img/grades/grades2.jpg" class="img-thumbnail" alt="grades screenshot">
+  <img width="500px" src="/img/grades/grades2.jpg" class="img-thumbnail" alt="grades screenshot">
 </div>
 
 The purpose of this project is to allow students to enter their grades for up to six classes and calculate the average of all their grades. It begins with a menu where you can choose three options by entering a number from 1 to 3. The first option is to add a student. The second option is to view all students. The third option is to exit.
