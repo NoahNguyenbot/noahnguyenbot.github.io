@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tictactoe/Tictactoe.jpg
+image: img/tictactoe/tictac.webp
 title: "Tic-Tac-Toe"
 date: 2024
 published: true
