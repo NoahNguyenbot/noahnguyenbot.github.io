@@ -27,3 +27,5 @@ This first week has been mostly frustrating. I often have to pause and look up w
 
 Even after only a week, I can already see the payoff in having more uniform-looking files , similar naming styles, and the same approach to loops and conditions. Reading my own code feels a little less messy and more deliberate, which makes it easier to spot problems or add new pieces later. I’m starting to get why people value these standards. They're not about being perfect right away, but about making code easier to understand, maintain, and fix, whether for me months from now or for anyone else who might work on it. The annoyance is still there, but I’m convinced sticking with it will pay off. The early struggle is temporary, and the clearer, more confident code I’m slowly building will last a lot longer. One week in, and I'm beginning to build more confidence reading and fixing errors using ESLint.
 
+Use of AI: Grammarly was used to correct grammar mistakes, add punctuation, and clarify ideas.  
+
