@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/sticking-with-the-warnings/62a78763e42d729d928b1746.webp">
 
 
 ## ESLint’s Not-So-Gentle Welcome
