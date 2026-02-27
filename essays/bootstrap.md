@@ -9,7 +9,7 @@ labels:
   - Bootstrap
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/tictactoe/62a76492bd73a4af5c5d4fb9.webp">
 
 
 ## The First Surprise: It Was Actually Easy to Start
