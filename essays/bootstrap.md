@@ -11,44 +11,14 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## The First Surprise: It Was Actually Easy to Start
+When I first tried Bootstrap 5, I thought it would be really hard, like learning a whole new set of rules that would slow me down. But it surprised me. It was actually easy right away. You add one link to the Bootstrap files at the top of your HTML, copy a simple example from their website, and suddenly you have a nice-looking navigation bar, centered pictures, or columns that line up perfectly. On the Island Snow Hawaii page we made, putting the logo in the middle and getting the menu items ("MEN", "WOMEN", "KIDS") to sit evenly across the screen took just a couple of quick changes. On the "History of Browsers" page, making a dark bar stick to the top with links to each section was simple, and the browser descriptions sat side-by-side with small pictures. Doing the same thing with only plain HTML and CSS would have taken forever with lots of trial and error. Bootstrap gave me fast results that made me want to keep going instead of getting stuck.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## It Keeps Things Looking Nice Without Extra Effort
+I noticed that Bootstrap makes everything match and look clean without me having to think too hard about it. Spacing stays even, colors look the same across the page, and things move smoothly as you shrink the window. On Island Snow, the big photo at the top filled the screen just right, and the bottom part with links and an email box lined up neatly in rows. On the browser history page, the text sections stayed readable with pictures floating beside them, and the whole thing didn’t look messy when the page was minimized. I've had problems with pages where one part had more space than another, or where things looked off because I forgot something. Bootstrap feels like it quietly helps keep things tidy and consistent. It’s like having a helper that reminds you to do things the same way every time, so your pages start looking more like real websites instead of random experiments.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## The Best Part: Pages That Look Good Fast
 
-Here's what I think: the difficult things will always be difficult.
+The coolest thing is how quickly you go from a blank file to something that actually looks decent. Island Snow ended up with a top bar full of icons, a big  photo, a simple menu, and a footer with signup, giving it a little online store feel. The browser history page had a bar you could click to jump around, a clear intro text, and organized sections for each browser with small logos. Both looked way nicer and more put-together than anything I could make quickly on my own. Although I wasn’t able to fully finish the in-class WODs we did with Bootstrap, it still blew me away how quickly I was able to almost recreate the Murphys' and Maui Brewing websites. Something that would have been almost impossible with plain HTML and CSS.
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
