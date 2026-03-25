@@ -4,7 +4,7 @@ type: essay
 title: "Final Project Proposal"
 # All dates must be YYYY-MM-DD format!
 date: 2026-03-25
-published: false
+published: true
 labels:
   - Software Engineering 
   - NextJs
