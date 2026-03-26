@@ -9,7 +9,11 @@ labels:
   - Software Engineering 
   - NextJs
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/final-project-proposal/sub-buzz-11303-1595346871-1.webp">
+<div class="text-center mb-4">
+  <img width="320px" class="rounded shadow" 
+       src="../img/final-project-proposal/sub-buzz-11303-1595346871-1.webp"
+       alt="Noah Nguyen">
+</div>
 
 ### Overview
 
