@@ -9,9 +9,10 @@ labels:
   - Software Engineering 
   - NextJs
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/final-project-proposal/sub-buzz-11303-1595346871-1.webp">
 
 ### Overview
-<img width="200px" class="rounded float-start pe-4" src="../img/final-project-proposal/sub-buzz-11303-1595346871-1.webp">
+
 
 #### The Problem
 UH Mānoa students face difficulty every semester when choosing classes. Tools like RateMyProfessors are often too general or overly negative, and official UH systems provide little insight into real difficulty, workload, teaching style, or the best time to take a course. This leads to poor scheduling decisions, unexpected stress, and lower academic performance.
