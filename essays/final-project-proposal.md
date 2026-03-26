@@ -45,4 +45,7 @@ All pages will be fully responsive using Bootstrap 5.
 ### Beyond the Basics
 The special sauce is the **personalized user experience** after registration and login. Each user has their own profile (major, year, learning preferences) that affects recommendations and highlights reviews from similar students. Data is stored persistently so the app feels unique to every logged-in user.
 
+
+
+
 **Use of AI**: Grammarly was used to correct mistakes in grammar to make ideas more clear. Grok was also used to help suggest how to format parts of the markdown (adding bulllet points, bold lettering, etc). 
