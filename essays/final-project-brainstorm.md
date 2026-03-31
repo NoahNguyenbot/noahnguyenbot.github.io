@@ -28,7 +28,7 @@ UH Mānoa students face difficulty every semester when choosing classes. Tools l
 - Noah Nguyen
 - Ryan Stuckey
 - Jaymond Guan
--John Crabtree 
+- John Crabtree 
 
 ### Mockup Page Ideas
 - **Home/Landing Page**: Hero banner with UH Mānoa branding, prominent search bar, and featured courses.
