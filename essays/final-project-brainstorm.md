@@ -46,8 +46,7 @@ All pages will be fully responsive using Bootstrap 5.
 - Users can mark helpful reviews, helping the community over time.
 
 ### Beyond the Basics
-The special sauce is the **personalized user experience** after registration and login. Each user has their own profile (major, year, learning preferences) that affects recommendations and highlights reviews from similar students. Data is stored persistently so the app feels unique to every logged-in user.
-
+The special sauce is the personalized user experience after registration and login. Each user has their own profile (major, year, learning preferences) that affects recommendations and highlights reviews from similar students. Each course and each professor could also have tags used to provide recommendations for specific courses. Data is stored persistently, so the app feels unique to every logged-in user.
 
 
 
