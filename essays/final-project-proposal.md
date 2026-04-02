@@ -12,7 +12,7 @@ labels:
 
 <div class="text-center mb-4">
   <img width="320px" class="rounded shadow"
-       src="../img/final-project-proposal/sub-buzz-11303-1595346871-1.webp"
+       src="../img/final-project-proposal/campus-manoa-valley.webp"
        alt="Noah Nguyen">
 </div>
 
