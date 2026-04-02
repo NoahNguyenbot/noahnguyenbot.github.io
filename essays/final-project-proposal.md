@@ -6,46 +6,44 @@ title: "Final Project Proposal"
 date: 2026-03-25
 published: true
 labels:
-  - Software Engineering 
+  - Software Engineering
   - NextJs
 ---
+
 <div class="text-center mb-4">
-  <img width="320px" class="rounded shadow" 
+  <img width="320px" class="rounded shadow"
        src="../img/final-project-proposal/sub-buzz-11303-1595346871-1.webp"
        alt="Noah Nguyen">
 </div>
 
 ### Overview
 
-
 #### The Problem
-UH Mānoa students face difficulty every semester when choosing classes. Tools like RateMyProfessors are often too general or overly negative, and official UH systems provide little insight into real difficulty, workload, teaching style, or the best time to take a course. This leads to poor scheduling decisions, unexpected stress, and lower academic performance.
+Incoming freshmen and transfer students at UH Mānoa often feel overwhelmed during their first weeks on campus. They struggle to navigate the large campus, find important resources, deal with culture shock, and make safe housing decisions, which makes their transition stressful and difficult.
 
 #### The Solution
-**Mānoa CourseWise** is a Next.js web application built with React and Bootstrap 5 that lets UH Mānoa students share and discover honest, constructive reviews of courses, professors, and TAs. The app includes searchable course pages, schedule conflict checking, crowd-sourced "best semester" stats, and warning flags for common issues.
+**Mānoa Buddy** is a Next.js web application built with React and Bootstrap 5 that acts as a friendly onboarding companion for new UH Mānoa students. It offers an interactive campus map with a first-week checklist, an anonymous “Ask a Local” Q&A, Hawaiian culture quick guides, a roommate compatibility quiz, and an off-campus housing safety checker.
 
 ### Names of the Proposers
 - Noah Nguyen
 
 ### Mockup Page Ideas
-- **Home/Landing Page**: Hero banner with UH Mānoa branding, prominent search bar, and featured courses.
-- **Course Search Page**: Filterable grid showing courses with average ratings, difficulty, and workload.
-- **Course Detail Page**: Reviews list, statistics, constructive flags, and built-in schedule conflict checker.
-- **Submit Review Page**: Form for logged-in users with ratings, sliders, and flag selection.
-- **User Dashboard**: Personalized recommendations, my reviews, and saved courses (the "special sauce").
-
-All pages will be fully responsive using Bootstrap 5.
+- **Home/Landing Page**: Welcoming hero banner with UH Mānoa branding and quick start buttons.
+- **Campus Map Page**: Interactive map with first-week checklist and resource pins.
+- **Ask a Local Page**: Anonymous Q&A forum for new student questions.
+- **Culture Guide Page**: Hawaiian language basics and culture shock resources.
+- **Housing Helper Page**: Roommate quiz and off-campus housing safety checker.
+- **User Dashboard**: Personalized checklist and saved resources (the "special sauce").
 
 ### Use Case Ideas
-- A student searches for "ICS 311" and quickly sees average difficulty, workload, and helpful student flags.
-- After logging in, a user submits a review for a class they just finished and receives personalized course suggestions based on their major and past ratings.
-- A student adds several courses to a planner and instantly sees time conflicts with alternatives suggested.
-- Users can mark helpful reviews, helping the community over time.
+- A new freshman follows the interactive checklist while exploring the campus map.
+- A transfer student posts an anonymous question and receives answers from upperclassmen.
+- An incoming student takes the roommate compatibility quiz before choosing housing.
+- A student checks the safety rating of off-campus apartments near campus.
+- After logging in, users see personalized progress and tailored recommendations.
 
 ### Beyond the Basics
-The special sauce is the **personalized user experience** after registration and login. Each user has their own profile (major, year, learning preferences) that affects recommendations and highlights reviews from similar students. Data is stored persistently so the app feels unique to every logged-in user.
+The special sauce is the **personalized user experience** after registration and login. Each user creates a profile with their status (freshman/transfer), major, and interests. The app uses this data to customize the checklist, highlight relevant resources, and personalize recommendations. All progress and saved items are stored persistently so the app feels like a personal guide tailored to each new student.
 
 
-
-
-**Use of AI**: Grammarly was used to correct mistakes in grammar to make ideas more clear. Grok was also used to help suggest how to format parts of the markdown (adding bulllet points, bold lettering, etc). 
+**Use of AI**: Grammarly was used to correct mistakes in grammar to make ideas more clear. Grok was also used to help suggest how to format parts of the markdown (adding bulllet points, bold lettering, etc), and also suggest use case and mockup page ideas. 
