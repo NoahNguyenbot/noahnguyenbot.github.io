@@ -11,7 +11,7 @@ labels:
   - NextJs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/final-project-proposal/sports-playbook.avif">
 
 # Why Design Patterns Are Basically a Playbook for Coding
 
