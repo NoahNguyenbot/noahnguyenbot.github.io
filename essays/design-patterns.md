@@ -36,4 +36,6 @@ We also found ourselves using the **Container-Presenter** pattern, which helped 
 
 Looking back, I realize that design patterns didn’t just help us write better code, they helped us work better as a team. We had a shared language and strategy, which made it easier to collaborate, review each other’s work, and build something we’re all proud of. And just like in sports, having a playbook didn’t mean we couldn’t improvise or try new things. It just gave us a solid foundation to build on.
 
-So, if you’re ever asked in an interview, “What are design patterns?” or “Which ones have you used?” — think about your favorite sport. Every great team has a playbook, and every great software project relies on design patterns. For **Manoa Course Wise**Our playbook made all the difference
+So, if you’re ever asked in an interview, “What are design patterns?” or “Which ones have you used?” — think about your favorite sport. Every great team has a playbook, and every great software project relies on design patterns. For **Manoa Course Wise**Our playbook made all the difference.
+
+**Use of AI:** Grammarly was used to correct punctuation and mistakes in grammar to make writing more clear. 
