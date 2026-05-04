@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Effort Estimation: What Actually Worked for Us"
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-04
 published: true
