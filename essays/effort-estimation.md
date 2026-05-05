@@ -13,7 +13,7 @@ labels:
 
 # Effort Estimation and Tracking in Manoa Course Wise
 
-Effort estimation and tracking were completely new territory for our team in the **Manoa Course Wise** project. At the beginning, the whole process felt pretty artificial — how on earth are you supposed to guess how long something will take before you’ve even touched it? But as the weeks went by, I discovered that even rough estimates and honest tracking became surprisingly valuable tools for staying organized and keeping the team in sync.
+Effort estimation and tracking were completely new territory for our team in the **Manoa Course Wise** project. At the beginning, the whole process felt pretty artificial — how were we supposed to guess how long something would take before we've even started workin on it? But as the weeks went by, I discovered that even rough estimates and honest tracking became surprisingly valuable tools for staying organized and keeping the team in sync.
 
 ## How did you make your effort estimates?
 
