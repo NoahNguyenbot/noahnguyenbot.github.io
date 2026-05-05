@@ -18,7 +18,7 @@ labels:
 
 Effort estimation and tracking were completely new territory for our team in the **Manoa Course Wise** project. At the beginning, the whole process felt pretty artificial — how were we supposed to guess how long something would take before we've even started workin on it? But as the weeks went by, I discovered that even rough estimates and honest tracking became surprisingly valuable tools for staying organized and keeping the team in sync.
 
-## How did you make your effort estimates?
+## How did I make my effort estimates?
 
 I based my estimates on a mix of gut instinct, past experience, and comparisons to similar tasks I had already done. 
 
@@ -38,13 +38,13 @@ Tracking actual effort turned out to be genuinely useful. After a few issues, a 
 
 A memorable case was the new tag filter — I thought it would take **30 minutes**, but it ballooned to **1.5 hours** thanks to stubborn UI bugs. Seeing that data repeatedly helped me start padding future estimates for similar work. As a team, the numbers also helped us identify bottlenecks, like design discussions taking longer than expected, so we made our meetings shorter and more focused.
 
-## How did you track your actual effort? How accurate was it?
+## How did I track my actual effort? How accurate was it?
 
 I tracked everything manually. For coding sessions, I noted start and stop times and subtracted any breaks or distractions. I did the same for non-coding work like design, research, and meetings. All of it went into a simple Google Sheet, and I updated the GitHub issue at the end of each session. 
 
 The method demanded real discipline. It wasn’t perfect — I sometimes forgot to log a quick research session right away — but I stayed as honest and consistent as possible. Overall, I believe the tracking gave us a reasonably accurate picture.
 
-## Reflection: What would you change next time?
+## Reflection: What I would change next time
 
 Next time, I would get even more granular. Breaking tasks into smaller subtasks dramatically improved both estimation and tracking. I’d also set phone reminders to log time immediately after each session so nothing slips through the cracks. 
 
