@@ -6,7 +6,10 @@ title: "Effort Estimation: What Actually Worked for Us"
 date: 2026-05-04
 published: true
 labels:
-  - Engineering
+- Software Engineering
+- NextJs
+- React
+- Vercel
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
