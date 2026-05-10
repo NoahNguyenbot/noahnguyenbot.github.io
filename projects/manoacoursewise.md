@@ -10,6 +10,9 @@ labels:
   - NextJs
 summary: "My final project for ICS 314"
 ---
+<div class="text-center p-4">
+  <img src="/img/final-project-proposal/landingpagefinal.png" class="img-fluid rounded shadow-lg mx-auto d-block" alt="Manoa Course Wise landing page">
+</div>
 
 
 
