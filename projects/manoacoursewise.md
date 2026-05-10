@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/final-project-proposal/Uhmanoa.webp
+image: img/final-project-proposal/UH-Manoa-logo.webp
 title: "Manoa Course Wise"
 date: 2026
 published: true
