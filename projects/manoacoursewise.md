@@ -24,4 +24,7 @@ One of the biggest takeaways for me was learning how much goes on behind the sce
 
 But honestly, the most valuable part of this project was working as a team. We had to constantly communicate, divide up tasks, and help each other out when we got stuck. I learned how to give and receive feedback, merge code changes without breaking things, and keep the project moving forward even when we hit roadblocks. By the end, I felt a lot more confident not just in my technical skills, but also in my ability to collaborate and contribute to a bigger goal. Manoa Course Wise was a real team effort!
 
+**Source code:** [GitHub Repository](https://github.com/manoa-coursewise/manoa-course-wise)  
+**Deployed app:** [Live App](https://manoa-course-wise.vercel.app/)
+
 
