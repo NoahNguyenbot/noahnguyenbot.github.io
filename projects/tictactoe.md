@@ -4,7 +4,7 @@ type: project
 image: img/tictactoe/tictac.webp
 title: "Tic-Tac-Toe"
 date: 2024
-published: true
+published: false
 labels:
   - Java
 summary: "A Tic-Tac-Toe game I made using java"
