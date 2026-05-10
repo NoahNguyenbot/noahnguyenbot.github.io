@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/fishpond/Fishphoto.webp
+image: img/final-project-proposal/Uhmanoa.webp
 title: "Manoa Course Wise"
 date: 2026
-published: false
+published: true
 labels:
   - Vercel
   - NextJs
