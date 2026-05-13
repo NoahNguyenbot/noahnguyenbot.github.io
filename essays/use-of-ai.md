@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Use of AI ICS 314"
+title: "Using AI as a Tool for Learning "
 # All dates must be YYYY-MM-DD format!
 date: 2026-05-12
 published: true
