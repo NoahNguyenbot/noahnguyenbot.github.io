@@ -109,3 +109,6 @@ Looking ahead, I think AI will play an even bigger role in software engineering 
 ## VIII. Conclusion
 
 Overall, AI has been a valuable addition to my software engineering education. It made learning faster, more flexible, and less intimidating, especially when tackling new or difficult topics. To get the most out of AI, I recommend integrating it intentionally into courses, teaching students how to use it wisely, and balancing it with traditional learning methods. This way, students can build both strong technical skills and a deeper understanding of software engineering principles.
+
+**use of AI:** Grok was used to make writing more clear and concise. Grammarly was used to fix spelling and grammar. 
+
