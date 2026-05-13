@@ -10,7 +10,11 @@ labels:
   - Software Engineering 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/final-project-proposal/AI-PIC.webp">
+<div class="text-center mb-4">
+  <img width="320px" class="rounded shadow"
+       src="../img/final-project-proposal/AI-PIC.webp"
+       alt="Noah Nguyen">
+</div>
 
 
 
