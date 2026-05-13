@@ -4,7 +4,7 @@ type: essay
 title: "The Power of Asking the Right Way"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-29
-published: true
+published: false
 labels:
   - Stack Overflow
 ---
