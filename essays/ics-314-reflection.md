@@ -9,7 +9,11 @@ labels:
   - Engineering
 ---
 
-
+<div class="text-center mb-4">
+  <img width="320px" class="rounded shadow"
+       src="../img/final-project-proposal/Collab.webp"
+       alt="Noah Nguyen">
+</div>
 
 # Reflections on Software Engineering – ICS 314
 
