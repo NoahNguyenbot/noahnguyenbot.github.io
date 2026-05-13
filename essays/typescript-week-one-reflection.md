@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript and Athletic Software Engineering: My First Week"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-22
-published: true
+published: false
 labels:
   - Engineering
 ---
