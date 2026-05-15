@@ -22,7 +22,7 @@ labels:
 
 The role of AI in education has transformed learning by providing personalized tutoring, instant feedback, and access to vast knowledge. In Software Engineering, AI is especially relevant because it accelerates code generation, debugging, design patterns, and testing, significantly boosting productivity. However, it can also become a crutch, offering instant answers when students would otherwise spend hours building deeper understanding.
 
-Generally, and in ICS 314, I used AI tools such as large language models for explanations, code completion, and prompt engineering. I began the semester primarily with Grok for conceptual understanding and switched to GitHub Copilot for its seamless integration with VS Code, which made it far more practical for day-to-day development work.
+Throughout the semester, especially in ICS 314, I regularly used AI tools like large language models for explanations and code completion. I started out mostly using Grok whenever I needed to understand concepts, but I eventually switched to GitHub Copilot because of how well it integrates with VS Code. That made it way more practical for my day-to-day coding work.
 
 ## II. Personal Experience with AI
 
