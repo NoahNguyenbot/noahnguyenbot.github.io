@@ -30,7 +30,9 @@ Another key concept was **Agile project management**, and more specifically, a s
 We also learned about coding standards. Coding standards are a set of rules for how code should be written. Things like how to name variables, how to format code, and how to write comments. At first, it seemed a bit strict, but as our Manoa Course Wise codebase grew, I saw how much easier it was to read, debug, and update code that followed clear standards. It’s like having a shared language, so anyone can jump in and understand what’s going on. This is something I’ll use in any future project, because it makes teamwork and maintenance so much easier.
 
 ## Final Thoughts
-What really stuck with me is that software engineering is about more than just writing code. It’s about people, process, and building things that last. The frameworks and languages will keep changing, but the habits of working together, staying organized, and building thoughtfully are what make great projects possible. ICS 314 gave me a solid foundation in these skills, and I’m excited to use them in whatever I build next. Whether it’s another web app, a mobile game, or something completely new.
+What really stuck with me is that software engineering goes well beyond just writing code. It’s about building reliable, maintainable systems that can evolve over time. Frameworks and languages will continue to change, but the discipline of writing clean, well-organized code and managing complexity is what separates short-lived experiments from projects that actually endure.
+
+ICS 314 gave me a strong foundation in these essential practices, and I’m excited to apply them to whatever I build next, whether it’s another web app, a mobile game, or something completely new.
 
 ## Advice
 If you’re thinking about getting into software engineering, my advice is to pay attention to the “boring” stuff like version control, project management, and coding standards. It’s what turns a cool idea into something real—and something you can actually finish.
