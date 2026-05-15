@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/fishpond/school-of-fish.webp
+image: img/fishpond/school-of-fish.webp
 title: "Fish Pond Game"
 date: 2024
 published: true
