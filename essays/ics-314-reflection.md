@@ -36,3 +36,5 @@ ICS 314 gave me a strong foundation in these essential practices, and I’m exci
 
 ## Advice
 If you’re thinking about getting into software engineering, my advice is to pay attention to the “boring” stuff like version control, project management, and coding standards. It’s what turns a cool idea into something real—and something you can actually finish.
+
+**Use of AI in this essay:** Grok was used to make writing clearer and more concise. Grammarly was then used to correct any remaining spelling and grammar mistakes. 
