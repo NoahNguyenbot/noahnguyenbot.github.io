@@ -15,7 +15,7 @@ labels:
        alt="Noah Nguyen">
 </div>
 
-# Reflections on Software Engineering – ICS 314
+
 
 ## Introduction
 As I finish up ICS 314, I’ve realized that software engineering is about much more than just building web apps. While I learned a lot about coding and using modern tools, the most important lessons were about the practices and principles that help teams build reliable, maintainable software, no matter what kind of project it is.
