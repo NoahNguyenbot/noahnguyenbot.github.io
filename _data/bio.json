@@ -61,7 +61,7 @@
       "endDate": "2026-05",
       "description": "A course management and scheduling web application built for University of Hawaiʻi at Mānoa students.",
       "highlights": [
-        "Developed a full-stack web application that allows students to search, filter, and plan their course schedules",
+        "Developed a full-stack web application that allows students to search, filter, and review previously taken courses",
         "Implemented dynamic search and filtering functionality",
         "Worked in an agile team environment using software engineering best practices",
         "Built with JavaScript/TypeScript and modern web technologies"
