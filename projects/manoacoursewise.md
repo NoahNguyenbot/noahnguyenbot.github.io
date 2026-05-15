@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/final-project-proposal/campus-manoa-valley.webp
+image: img/final-project-proposal/coursedetails311.png
 title: "Manoa Course Wise"
 date: 2026
 published: true
