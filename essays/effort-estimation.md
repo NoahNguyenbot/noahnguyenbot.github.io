@@ -64,4 +64,6 @@ I usually spent around 5 minutes per prompt, refining the question and reviewing
 
 Effort estimation and tracking weren’t perfect, but they genuinely improved how we built **Manoa Course Wise**. The process pushed us to plan more thoughtfully, communicate better, and learn from our missteps. With more practice, I’m confident we’ll get sharper at both estimating and delivering.
 
+---
+
 **Use of AI in this essay:** Grammarly was used to correct mistakes in grammar. Grok was also used for parts of the markdown formatting. 
