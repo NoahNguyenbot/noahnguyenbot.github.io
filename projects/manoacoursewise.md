@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/final-project-proposal/campus-manoa-valley.webp
-title: "Manoa Course Wise"
+title: "Mānoa Course Wise"
 date: 2026
 published: true
 labels:
   - Vercel
   - NextJs
-summary: "My final project for ICS 314"
+summary: "A course review system for UH Mānoa"
 ---
 <div class="text-center p-4">
   <img src="/img/final-project-proposal/landingpagefinal.png" class="img-fluid rounded shadow-lg mx-auto d-block" alt="Manoa Course Wise landing page">
