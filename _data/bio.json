@@ -25,7 +25,9 @@
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Computer Hardware" },
-    { "name": "Web Development" }
+    { "name": "Web Development" },
+    { "name": "Video Games" },
+    
   ],
   "skills": [
     {
