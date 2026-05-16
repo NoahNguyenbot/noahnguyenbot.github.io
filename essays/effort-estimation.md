@@ -66,4 +66,4 @@ Effort estimation and tracking weren’t perfect, but they genuinely improved ho
 
 ---
 
-**Use of AI in this essay:** Grammarly was used to correct mistakes in grammar. Grok was also used for parts of the markdown formatting. 
+**Use of AI in this essay:** Grok was used to make ideas more clear and concise.
